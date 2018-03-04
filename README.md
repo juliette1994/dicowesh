@@ -1,2 +1,2 @@
-# dicowesh
+# Dicowesh
 C Project
